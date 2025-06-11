@@ -4,7 +4,7 @@ Submitted by: **Adeline Greene**
 
 This web app: **This web app displays recently released movies for the community to vote on.**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
